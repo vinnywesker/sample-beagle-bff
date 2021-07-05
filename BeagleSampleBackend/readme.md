@@ -1,4 +1,4 @@
-compilar com
+buildar com
 
 ### `./mvnw clean compile package`
 
